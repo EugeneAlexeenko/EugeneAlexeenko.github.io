@@ -1,0 +1,20 @@
+{
+  "main.css": "static/css/main.a7554e06.css",
+  "main.css.map": "static/css/main.a7554e06.css.map",
+  "main.js": "static/js/main.c1a17867.js",
+  "main.js.map": "static/js/main.c1a17867.js.map",
+  "static/media/arrow.svg": "static/media/arrow.b2b6122c.svg",
+  "static/media/bg_main.jpg": "static/media/bg_main.d531ce9f.jpg",
+  "static/media/close.svg": "static/media/close.d68599ba.svg",
+  "static/media/flag.svg": "static/media/flag.be66c940.svg",
+  "static/media/humidity.svg": "static/media/humidity.a9bf8132.svg",
+  "static/media/roboto-v18-latin-500.woff": "static/media/roboto-v18-latin-500.de8b7431.woff",
+  "static/media/roboto-v18-latin-500.woff2": "static/media/roboto-v18-latin-500.28546717.woff2",
+  "static/media/roboto-v18-latin-700.woff": "static/media/roboto-v18-latin-700.cf6613d1.woff",
+  "static/media/roboto-v18-latin-700.woff2": "static/media/roboto-v18-latin-700.037d8304.woff2",
+  "static/media/roboto-v18-latin-regular.woff": "static/media/roboto-v18-latin-regular.bafb105b.woff",
+  "static/media/roboto-v18-latin-regular.woff2": "static/media/roboto-v18-latin-regular.5d4aeb4e.woff2",
+  "static/media/settings_gears.svg": "static/media/settings_gears.527fc791.svg",
+  "static/media/sunrise_sunset.svg": "static/media/sunrise_sunset.5901a62c.svg",
+  "static/media/wind_sock.svg": "static/media/wind_sock.060efeef.svg"
+}
